@@ -45,6 +45,6 @@ export default class Introduction extends Component {
           </ul>
         </div>
       </section>
-    )
+    );
   }
-}
+};

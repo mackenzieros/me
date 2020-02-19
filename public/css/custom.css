@@ -1,0 +1,17 @@
+.self-learning-list-done {
+    list-style-type: none;
+}
+.self-learning-list-done li:before {
+    content: '\2714';
+    margin-left: -20px;
+    margin-right: 10px;
+}
+
+.self-learning-list-prog {
+    list-style-type: none;
+}
+.self-learning-list-prog li:before {
+    content: '\270F';
+    margin-left: -20px;
+    margin-right: 10px;
+}

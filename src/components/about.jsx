@@ -14,10 +14,10 @@ export default class About extends Component {
                                         <span className="heading-meta">About Me</span>
                                         <h2 className="colorlib-heading">Who Am I?</h2>
                                         <p>
-                                            I am <strong>Mackenzie Ros</strong>, a college graduate from the University of California, Irvine (Zoot zoot zoot!) I love learning new things and engaging in the challenges that may come with them.
+                                            I am <strong>Mackenzie Ros</strong>, a college graduate from the University of California, Irvine (Zoot zoot) I love learning new things and engaging in challenges that may come with them.
                                         </p>
                                         <p>
-                                            I love coding and fitness. I usually read but I mostly listen. I only write when I have to...
+                                            I love coding and fitness. I usually read but I mostly listen. Trying to write more.
                                         </p>
                                     </div>
                                 </div>
@@ -81,4 +81,4 @@ export default class About extends Component {
             </section>
         );
     }
-}
+};

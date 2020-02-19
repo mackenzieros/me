@@ -31,25 +31,6 @@ export default class Experience extends Component {
                                         </div>
                                     </div>
                                 </article>
-                                <article className="timeline-entry animate-box" data-animate-effect="fadeInRight">
-                                    <div className="timeline-entry-inner">
-                                        <div className="timeline-icon color-2">
-                                            <i className="icon-pen2" />
-                                        </div>
-                                        <div className="timeline-label">
-                                            <h2><a href="#">Undergrad at University of California, Irvine</a>
-                                                <span> 2017 - 2019</span></h2>
-                                            <p>
-                                                Graduated in December of 2019 with a Bachelors in Computer Science.
-                                                <br></br>
-                                                I have taken courses on Data Structures, Algorithms, OOP, AI, Machine Learning, Computer Networks, Network Security, Data Management, Information Retrieval, System Design, and Operating Systems,
-                                                so I have a solid grasp on fundamental CS concepts.
-                                                <br></br>
-                                                I was a member of the Cambodian Awareness Organization; I learned Brazilian Jiu Jitsu, boxing, and how to play Smash badly and DnD like a troll.
-                                            </p>
-                                        </div>
-                                    </div>
-                                </article>
                             </div>
                         </div>
                     </div>
