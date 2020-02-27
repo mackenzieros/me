@@ -35,7 +35,7 @@ export default class Education extends Component {
                                                             <br />
                                                             <small><strong>Major GPA: </strong>3.704</small>
                                                             <br />
-                                                            <small><strong>Course taken: </strong>
+                                                            <small><strong>Courses taken: </strong>
                                                                 Data Structures,
                                                                 System Design,
                                                                 Design and Analysis of Algorithms,
@@ -54,7 +54,7 @@ export default class Education extends Component {
                                                     </div>
                                                     <div class="col-md-6">
                                                         <p>
-                                                            Member of the STEM transfers scholars program and the Cambodian Awareness Organization; I learned Brazilian Jiu Jitsu, boxing, and how to play Smash badly and DnD like a troll.
+                                                            Member of the STEM transfers scholars program and the Cambodian Awareness Organization; Also learned Brazilian Jiu Jitsu, boxing, and how to play Smash and DnD.
                                                         </p>
                                                     </div>
                                                 </div>
@@ -71,23 +71,31 @@ export default class Education extends Component {
                                     data-animate-effect="fadeInLeft">
                                     <h2 class="colorlib-heading animate-box">Self-learning</h2>
                                     <div class="col-md-12 animate-box" data-animate-effect="fadeInLeft">
-                                        <p>
-                                            <strong>Learned: </strong>
-                                            <ul class="self-learning-list-done">
-                                                <li>Express web framework (Node.js/JavaScript) (Mozilla MDN 2018)</li>
-                                                <li>Serverless Introduction (Serverless 2019)</li>
-                                                <li>Design and Analysis of Algorithms (Stanford Lagunita 2019)</li>
-                                                <li>Computer Systems Security (MIT OpenCourseWare 2019)</li>
-                                                <li>Docker for beginners (Docker Labs 2020)</li>
-                                                <li>React Native (Facebook React Native Guides 2020)</li>
-                                            </ul>
+                                        <div class='desc'>
+                                            <p>
+                                                <strong>Guides and lectures: </strong>
+                                                <ul class="self-learning-list-prog">
+                                                    <li>Progressive Web Apps Training: Intro to Service Worker (Google Developers 2020)</li>
+                                                </ul>
+                                                <ul class="self-learning-list-done">
+                                                    <li>Express web framework (Node.js/JavaScript) (Mozilla MDN 2018)</li>
+                                                    <li>Serverless Introduction (Serverless 2019)</li>
+                                                    <li>Computer Systems Security (MIT OpenCourseWare 2019)</li>
+                                                    <li>Docker for beginners (Docker Labs 2020)</li>
+                                                    <li>React Native (Facebook React Native Guides 2020)</li>
+                                                </ul>
 
-                                            <strong>Learning: </strong>
-                                            <ul class="self-learning-list-prog">
-                                                <li>NLP with Python (Udemy 2020)</li>
-                                                <li>Progressive Web Apps Training: Intro to Service Worker (Google Developers 2020)</li>
-                                            </ul>
-                                        </p>
+                                                <strong>Training and workshops: </strong>
+                                                <ul class="self-learning-list-prog">
+                                                    <li>NLP with Python (Udemy 2020)</li>
+                                                </ul>
+                                                <ul class="self-learning-list-done">
+                                                    <li>Design and Analysis of Algorithms (Stanford Lagunita 2019)</li>
+                                                    <li>Half-Day Apache Kafka Workshop (Instaclustr 2020)</li>
+                                                    <li>Hands-on workshop: Introduction to Machine Learning with Apache Spark and Redis (Twilio 2020)</li>
+                                                </ul>
+                                            </p>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
