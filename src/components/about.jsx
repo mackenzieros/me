@@ -58,7 +58,7 @@ export default class About extends Component {
                                 <div class="desc">
                                     <h3>AI and Machine Learning</h3>
                                     <p>
-                                        Enthralled by having made a checkers-playing agent, I am now studying deep learning and reviewing machine learning techniques
+                                        Developed a checkers-playing agent, trained an end-to-end memory network for Q&A, and leveraged other techniques for a question generator
                                     </p>
                                 </div>
                             </div>

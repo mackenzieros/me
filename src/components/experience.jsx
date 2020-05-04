@@ -24,9 +24,9 @@ export default class Experience extends Component {
                                             <h2><a href="#">Internship at CalAmp</a> <span> 2019 </span></h2>
                                             <p>
                                                 Joined the LMACTC API team for the Summer and Fall. 
-                                                My role on the team was to develop and test RESTful API endpoints in node.js while assuring efficiency and readability on top of a legacy system. 
-                                                In coordination with the team, I designed and developed the API for the company's new product.
-                                                I also resolved technical problems of the API resulting in code and application quality improvements.
+                                                My role on the team was to develop and test RESTful API endpoints in node.js while assuring efficiency and maintainability. 
+                                                Worked with other engineering teams to create and enhance platform capabilities.
+                                                Developed applications and scripts to monitor health and performance of a distributed processing system.
                                             </p>
                                         </div>
                                     </div>

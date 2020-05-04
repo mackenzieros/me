@@ -10,7 +10,12 @@ export default class Projects extends Component {
                             <h2 className="colorlib-heading animate-box">Personal Projects</h2>
                         </div>
                     </div>
-                    <p><b>Coming soon!</b></p>
+                    <p>
+                        <b>Coming soon!</b>
+                        <br/>
+                        For now... please refer to my github!
+                    </p>
+                    <br/>
                     {/* <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                         <div className="col-md-12">
                             <p className="work-menu"><span><a href="#" className="active">Graphic Design</a></span> <span><a href="#">Web Design</a></span> <span><a href="#">Software</a></span>

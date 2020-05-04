@@ -75,6 +75,8 @@ export default class Education extends Component {
                                             <p>
                                                 <strong>Guides and lectures: </strong>
                                                 <ul class="self-learning-list-prog">
+                                                    <li>Software Architecture (Jakob Jenkov 2020)</li>
+                                                    <li>System Design Primer (Donne Martin 2020)</li>
                                                     <li>Progressive Web Apps Training: Intro to Service Worker (Google Developers 2020)</li>
                                                 </ul>
                                                 <ul class="self-learning-list-done">
@@ -87,9 +89,9 @@ export default class Education extends Component {
 
                                                 <strong>Training and workshops: </strong>
                                                 <ul class="self-learning-list-prog">
-                                                    <li>NLP with Python (Udemy 2020)</li>
                                                 </ul>
                                                 <ul class="self-learning-list-done">
+                                                    <li>NLP with Python (Udemy 2020)</li>
                                                     <li>Design and Analysis of Algorithms (Stanford Lagunita 2019)</li>
                                                     <li>Half-Day Apache Kafka Workshop (Instaclustr 2020)</li>
                                                     <li>Hands-on workshop: Introduction to Machine Learning with Apache Spark and Redis (Twilio 2020)</li>
